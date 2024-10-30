@@ -39,7 +39,8 @@ With the proper software, you can use these boards to quickly and easily emulate
 ### USB/IP
 Link:
 https://usbip.sourceforge.net/
-
+Setup:
+https://wiki.archlinux.org/title/USB/IP
 #### Summary
 The USB/IP Project aims to develop a general USB device sharing system over IP network. 
 To share USB devices between computers with their full functionality, USB/IP encapsulates USB I/O requests into IP packets and transmits them between computers.
