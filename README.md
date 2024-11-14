@@ -3,6 +3,8 @@
 https://github.com/Umarrashid1/Hardwall_Cloud
 ### Device OS setup
 https://github.com/Umarrashid1/Hardwall_Nix
+### Device scripting
+https://github.com/Umarrashid1/hardwall_device
 
 ### Andet?
 
